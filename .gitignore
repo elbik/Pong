@@ -1,3 +1,17 @@
+<<<<<<< HEAD
 .idea/
 out/
 Pong.iml
+=======
+# Build and Release Folders
+bin/
+bin-debug/
+bin-release/
+
+# Other files and folders
+.settings/
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+>>>>>>> 4a854578fc21ad15614886ff823db24e1c6384cb
